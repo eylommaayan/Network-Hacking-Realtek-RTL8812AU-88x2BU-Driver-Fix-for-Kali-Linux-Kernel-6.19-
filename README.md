@@ -1,4 +1,4 @@
-# Realtek-RTL8812AU-88x2BU-Driver-Fix-for-Kali-Linux-Kernel-6.19-
+# Network Hacking: Realtek-RTL8812AU-88x2BU-Driver-Fix-for-Kali-Linux-Kernel-6.19-
 מדריך זה מספק פתרון סופי להפעלת כרטיסי WiFi מבוססי צ'יפסט Realtek USB3.0 802.11ac 1200M במערכות Kali Linux מודרניות, במיוחד כאשר מודלי AI נכשלים בלופים של פתרונות גנריים.
 
 
